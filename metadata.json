@@ -1,0 +1,6 @@
+{
+  "name": "Chronic Kidney Disease Prediction",
+  "description": "Early prediction of chronic kidney disease using machine learning classification models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
